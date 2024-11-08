@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\robert.verano\Desktop\testDeploy</_PublishTargetUrl>
+    <History>True|2024-11-07T03:08:08.6109551Z||;True|2024-11-07T10:52:19.4422826+08:00||;</History>
+    <LastFailureDetails />
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefaultConnection">
+      <Value>Data Source=192.168.17.157\SILVER,51433%3bInitial Catalog=HRIS_2024%3bUser ID=sa%3bPassword=Righteousn3ss%3bConnect Timeout=30%3bEncrypt=True%3bTrust Server Certificate=True%3bApplication Intent=ReadWrite%3bMulti Subnet Failover=False</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>
